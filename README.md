@@ -46,3 +46,4 @@ By the end of these 138 days, I aim to be proficient in the key tools and techni
 ---
 
 📌 _Stay tuned as I update this repository daily with my learning journey._
+✅ *Check my overall progress here* → [Notes](Notes)
